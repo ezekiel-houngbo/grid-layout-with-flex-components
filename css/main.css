@@ -21,9 +21,12 @@ body {
   text-decoration: none;
   background-color: #781BAA;
   
+  border: none;
   color: white;
   padding: 1rem;
   border-radius: 8px;
+  cursor: pointer;
+  margin-top: auto;
 }
 
 .emoji a:hover,
